@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "782280694054",
+    "firebase_url": "https://uberproject-8daf6.firebaseio.com",
+    "project_id": "uberproject-8daf6",
+    "storage_bucket": "uberproject-8daf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782280694054:android:39c2b7101d0399f6",
+        "android_client_info": {
+          "package_name": "com.example.dell.uberproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782280694054-2vrj27su53rfn1fdd0grb5asmrm3cjsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.uberproject",
+            "certificate_hash": "c8dea1d4456f44dfdb814a5a57bf3c96eafd31f9"
+          }
+        },
+        {
+          "client_id": "782280694054-unbfphjs5j0g5ifvcjtg39k3lhg9pb3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhI9Jr5hRBkYdOyJ95YlIj87PEfuWlpfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782280694054-unbfphjs5j0g5ifvcjtg39k3lhg9pb3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

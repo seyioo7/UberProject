@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UberProject</string>
+    <string name="i_m_a_driver">I\'m a Driver</string>
+    <string name="i_m_a_Customer">Customer</string>
+</resources>
